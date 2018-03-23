@@ -1,4 +1,5 @@
-Projet Scolaire Java de 3ème année
+Projet Scolaire Java de 3ème année 
+
 On souhaite automatiser la production de fiches pour des produits dans un système de gestion de stock.
 
 Le système accepte en entrée un fichier au format CSV contenant la liste des produits. Un produit est défini
